@@ -1,0 +1,9 @@
+speech_recognition
+webbrowser
+pyttsx3
+musicLibrary
+requests
+openai
+os
+google.generativeai
+wikipedia
